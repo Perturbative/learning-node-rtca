@@ -1,0 +1,15 @@
+{
+  "name": "real-time-chat-application",
+  "version": "1.0.0",
+  "description": "An adventure into the world of Node.JS (and Socket.io)",
+  "main": "chatserver.js",
+  "dependencies": {
+    "socket.io": "^1.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node chatserver.js"
+  },
+  "author": "Perturbative",
+  "license": "MIT"
+}
